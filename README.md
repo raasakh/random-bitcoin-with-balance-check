@@ -5,8 +5,11 @@ Install dependencies
 To be able to use these codes, you must install all the modules just by typing in your terminal the command below:
 
 sudo apt install python
+
 sudo apt install pip
+
 sodo pip install bit
+
 
 Next download or clone this repository.
 
