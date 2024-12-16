@@ -8,7 +8,7 @@ sudo apt install python
 
 sudo apt install pip
 
-sodo pip install bit
+sudo pip install bit
 
 
 Next download or clone this repository.
